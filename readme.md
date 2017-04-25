@@ -18,6 +18,8 @@ Mojo-jojo is a simple task management app
 
 5.Run the command `php artisan migrate` to to create tables.
 
+6.Run the command `php artisan db:seed --class=UsersTableSeeder` to create 3 different types of user.
+
 6.Run the command `php artisan serve` to run the app.
 
 
